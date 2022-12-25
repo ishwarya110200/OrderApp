@@ -87,3 +87,4 @@ const CartProvider = (props) => {
 };
 
 export default CartProvider;
+//cartprovider component
